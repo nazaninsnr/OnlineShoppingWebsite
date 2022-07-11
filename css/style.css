@@ -1,0 +1,19 @@
+@font-face {
+  font-family: B Kamran;
+  src: "./font/B Kamran.ttf";
+}
+
+* {
+  box-sizing: border-box;
+  direction: rtl;
+  font-family: B Kamran;
+}
+
+body {
+  font-size: 16px;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
